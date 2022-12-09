@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Deletando o SEC"
 
 groupdel GRP_SEC

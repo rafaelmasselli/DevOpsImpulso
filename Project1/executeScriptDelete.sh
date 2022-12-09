@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Deletando grupos"
 
 chmod +x deleteGrup.sh 

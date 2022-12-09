@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Criando os usuarios"
 
 chmod +x createUser.sh 

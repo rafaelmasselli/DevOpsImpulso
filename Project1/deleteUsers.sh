@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Deletando usuários do sistema"
 
 echo "Deletando usuário guest10"

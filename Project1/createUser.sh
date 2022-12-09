@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Criando usuários do sistema"
 
 useradd guest10 -c "Usuário convidado" -s /bin/bash -m -p $(openssl passwd -crypt jklv1234)
